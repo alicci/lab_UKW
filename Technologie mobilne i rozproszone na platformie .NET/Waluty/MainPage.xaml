@@ -1,0 +1,58 @@
+﻿<Page
+    x:Class="Waluty.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Waluty"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}" Height="985" Width="845">
+    <Page.Resources>
+        <DataTemplate x:Key="daneWalutowe">
+            <StackPanel Orientation="Horizontal">
+                <TextBlock Text="{Binding kod_waluty}" />
+                <TextBlock Text=" :" />
+                <TextBlock Text="{Binding kurs_sredni}" />
+            </StackPanel>
+        </DataTemplate>
+    </Page.Resources>
+    
+    
+    <Grid Loaded="Grid_Loaded">
+        <Grid.RowDefinitions>
+            
+            <RowDefinition Height="auto"/>
+            <!--wiersz 0-->
+            <RowDefinition Height="*"/>
+            <!--wiersz 1-->
+        </Grid.RowDefinitions>
+        <StackPanel Margin="10,10">
+            <TextBlock Text="WALUTY" Style="{ThemeResource BaseTextBlockStyle}"/>
+            <TextBlock Text="Kalkulator" Style="{ThemeResource HeaderTextBlockStyle}"/>
+        </StackPanel >
+        <StackPanel Grid.Row="1" Margin="20,15" Orientation="Vertical">
+            <StackPanel Orientation="Horizontal" >
+                <!--text box-->
+                <TextBlock Text="Z waluty:   " Style="{ThemeResource BaseTextBlockStyle}"/>
+                <TextBox InputScope="CurrencyAmount" Name="txtKwota" TextAlignment="Right" Width="160" TextChanged="txtKwota_TextChanged" />
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" Margin="0,15" >
+                <TextBlock Text="Przeliczone:   " Style="{ThemeResource HeaderTextBlockStyle}"/>
+                <TextBlock  Name="tbPrzeliczona" Margin="15,0,0,0"/>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" Margin="35,25" >
+                <TextBlock Text="z waluty" Style="{ThemeResource BodyTextBlockStyle}"/>
+                <TextBlock Text="-->" Margin="50,0" Style="{ThemeResource BodyTextBlockStyle}"/>
+                <TextBlock Text="na walute"  Style="{ThemeResource BodyTextBlockStyle}"/>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <ListBox x:Name="lbxZWaluty" Width="200" Height="200" SelectionChanged="lbxZWaluty_SelectionChanged" ItemTemplate="{StaticResource daneWalutowe}"/>
+
+                <TextBlock Text="->" Margin="40,45"/>
+                <ListBox Name="lbxNaWalute" Width="200" Height="200" SelectionChanged="lbxNaWalute_SelectionChanged" ItemTemplate="{StaticResource daneWalutowe}"/>
+
+            </StackPanel>
+        </StackPanel>
+
+    </Grid>
+</Page>

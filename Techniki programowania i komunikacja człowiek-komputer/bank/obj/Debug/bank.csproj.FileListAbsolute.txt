@@ -1,0 +1,13 @@
+C:\Users\janco\Desktop\UKW 2023-24\rok2sem2\bank\obj\Debug\bank.csproj.AssemblyReference.cache
+C:\Users\janco\Desktop\UKW 2023-24\rok2sem2\bank\obj\Debug\bank.csproj.SuggestedBindingRedirects.cache
+C:\Users\janco\Desktop\UKW 2023-24\rok2sem2\bank\obj\Debug\bank.AdminForm.resources
+C:\Users\janco\Desktop\UKW 2023-24\rok2sem2\bank\obj\Debug\bank.Form1.resources
+C:\Users\janco\Desktop\UKW 2023-24\rok2sem2\bank\obj\Debug\bank.Properties.Resources.resources
+C:\Users\janco\Desktop\UKW 2023-24\rok2sem2\bank\obj\Debug\bank.csproj.GenerateResource.cache
+C:\Users\janco\Desktop\UKW 2023-24\rok2sem2\bank\obj\Debug\bank.csproj.CoreCompileInputs.cache
+C:\Users\janco\Desktop\UKW 2023-24\rok2sem2\bank\bin\Debug\bank.exe.config
+C:\Users\janco\Desktop\UKW 2023-24\rok2sem2\bank\bin\Debug\bank.exe
+C:\Users\janco\Desktop\UKW 2023-24\rok2sem2\bank\bin\Debug\bank.pdb
+C:\Users\janco\Desktop\UKW 2023-24\rok2sem2\bank\obj\Debug\bank.exe
+C:\Users\janco\Desktop\UKW 2023-24\rok2sem2\bank\obj\Debug\bank.pdb
+C:\Users\janco\Desktop\UKW 2023-24\rok2sem2\bank\obj\Debug\bank.Login.resources

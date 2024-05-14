@@ -1,0 +1,91 @@
+D:\Alicja\Waluty\bin\x86\Debug\App.xbf
+D:\Alicja\Waluty\bin\x86\Debug\MainPage.xbf
+D:\Alicja\Waluty\bin\x86\Debug\Waluty.xr.xml
+D:\Alicja\Waluty\bin\x86\Debug\Waluty.exe
+D:\Alicja\Waluty\bin\x86\Debug\Waluty.pdb
+D:\Alicja\Waluty\bin\x86\Debug\resources.pri
+D:\Alicja\Waluty\bin\x86\Debug\AppxManifest.xml
+D:\Alicja\Waluty\bin\x86\Debug\Core\AppxManifest.xml
+D:\Alicja\Waluty\bin\x86\Debug\Core\Waluty.exe
+D:\Alicja\Waluty\bin\x86\Debug\Waluty.build.appxrecipe
+D:\Alicja\Waluty\bin\x86\Debug\System.Runtime.dll
+D:\Alicja\Waluty\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+D:\Alicja\Waluty\obj\x86\Debug\Waluty.csproj.AssemblyReference.cache
+D:\Alicja\Waluty\obj\x86\Debug\App.g.i.cs
+D:\Alicja\Waluty\obj\x86\Debug\App.g.cs
+D:\Alicja\Waluty\obj\x86\Debug\MainPage.g.i.cs
+D:\Alicja\Waluty\obj\x86\Debug\MainPage.g.cs
+D:\Alicja\Waluty\obj\x86\Debug\XamlTypeInfo.g.cs
+D:\Alicja\Waluty\obj\x86\Debug\App.xaml
+D:\Alicja\Waluty\obj\x86\Debug\MainPage.xaml
+D:\Alicja\Waluty\obj\x86\Debug\App.xbf
+D:\Alicja\Waluty\obj\x86\Debug\MainPage.xbf
+D:\Alicja\Waluty\obj\x86\Debug\XamlSaveStateFile.xml
+D:\Alicja\Waluty\obj\x86\Debug\Waluty.csproj.CoreCompileInputs.cache
+D:\Alicja\Waluty\obj\x86\Debug\Waluty.csproj.CopyComplete
+D:\Alicja\Waluty\obj\x86\Debug\Waluty.exe
+D:\Alicja\Waluty\obj\x86\Debug\Waluty.pdb
+D:\Alicja\Waluty\obj\x86\Debug\ResourceHandlingTask.state
+D:\Alicja\Waluty\obj\x86\Debug\priconfig.xml
+D:\Alicja\Waluty\obj\x86\Debug\priconfig.xml.intermediate
+D:\Alicja\Waluty\obj\x86\Debug\unfiltered.layout.resfiles
+D:\Alicja\Waluty\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+D:\Alicja\Waluty\obj\x86\Debug\filtered.layout.resfiles
+D:\Alicja\Waluty\obj\x86\Debug\filtered.layout.resfiles.intermediate
+D:\Alicja\Waluty\obj\x86\Debug\excluded.layout.resfiles
+D:\Alicja\Waluty\obj\x86\Debug\excluded.layout.resfiles.intermediate
+D:\Alicja\Waluty\obj\x86\Debug\resources.resfiles
+D:\Alicja\Waluty\obj\x86\Debug\resources.resfiles.intermediate
+D:\Alicja\Waluty\obj\x86\Debug\pri.resfiles
+D:\Alicja\Waluty\obj\x86\Debug\pri.resfiles.intermediate
+D:\Alicja\Waluty\obj\x86\Debug\qualifiers.txt
+D:\Alicja\Waluty\obj\x86\Debug\qualifiers.txt.intermediate
+D:\Alicja\Waluty\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\Alicja\Waluty\obj\x86\Debug\ProjectArchitectures.txt
+D:\Alicja\Waluty\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637424779200000000.json
+C:\Users\janco\Desktop\UKW 2023-24\rok2sem2\Waluty\Waluty\bin\x86\Debug\App.xbf
+C:\Users\janco\Desktop\UKW 2023-24\rok2sem2\Waluty\Waluty\bin\x86\Debug\MainPage.xbf
+C:\Users\janco\Desktop\UKW 2023-24\rok2sem2\Waluty\Waluty\bin\x86\Debug\Waluty.xr.xml
+C:\Users\janco\Desktop\UKW 2023-24\rok2sem2\Waluty\Waluty\bin\x86\Debug\Waluty.exe
+C:\Users\janco\Desktop\UKW 2023-24\rok2sem2\Waluty\Waluty\bin\x86\Debug\Waluty.pdb
+C:\Users\janco\Desktop\UKW 2023-24\rok2sem2\Waluty\Waluty\bin\x86\Debug\resources.pri
+C:\Users\janco\Desktop\UKW 2023-24\rok2sem2\Waluty\Waluty\bin\x86\Debug\AppxManifest.xml
+C:\Users\janco\Desktop\UKW 2023-24\rok2sem2\Waluty\Waluty\bin\x86\Debug\Core\AppxManifest.xml
+C:\Users\janco\Desktop\UKW 2023-24\rok2sem2\Waluty\Waluty\bin\x86\Debug\Core\Waluty.exe
+C:\Users\janco\Desktop\UKW 2023-24\rok2sem2\Waluty\Waluty\bin\x86\Debug\Waluty.build.appxrecipe
+C:\Users\janco\Desktop\UKW 2023-24\rok2sem2\Waluty\Waluty\bin\x86\Debug\System.Runtime.dll
+C:\Users\janco\Desktop\UKW 2023-24\rok2sem2\Waluty\Waluty\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\janco\Desktop\UKW 2023-24\rok2sem2\Waluty\Waluty\obj\x86\Debug\Waluty.csproj.AssemblyReference.cache
+C:\Users\janco\Desktop\UKW 2023-24\rok2sem2\Waluty\Waluty\obj\x86\Debug\App.g.i.cs
+C:\Users\janco\Desktop\UKW 2023-24\rok2sem2\Waluty\Waluty\obj\x86\Debug\App.g.cs
+C:\Users\janco\Desktop\UKW 2023-24\rok2sem2\Waluty\Waluty\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\janco\Desktop\UKW 2023-24\rok2sem2\Waluty\Waluty\obj\x86\Debug\MainPage.g.cs
+C:\Users\janco\Desktop\UKW 2023-24\rok2sem2\Waluty\Waluty\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\janco\Desktop\UKW 2023-24\rok2sem2\Waluty\Waluty\obj\x86\Debug\App.xaml
+C:\Users\janco\Desktop\UKW 2023-24\rok2sem2\Waluty\Waluty\obj\x86\Debug\MainPage.xaml
+C:\Users\janco\Desktop\UKW 2023-24\rok2sem2\Waluty\Waluty\obj\x86\Debug\App.xbf
+C:\Users\janco\Desktop\UKW 2023-24\rok2sem2\Waluty\Waluty\obj\x86\Debug\MainPage.xbf
+C:\Users\janco\Desktop\UKW 2023-24\rok2sem2\Waluty\Waluty\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\janco\Desktop\UKW 2023-24\rok2sem2\Waluty\Waluty\obj\x86\Debug\Waluty.csproj.CoreCompileInputs.cache
+C:\Users\janco\Desktop\UKW 2023-24\rok2sem2\Waluty\Waluty\obj\x86\Debug\Waluty.csproj.CopyComplete
+C:\Users\janco\Desktop\UKW 2023-24\rok2sem2\Waluty\Waluty\obj\x86\Debug\Waluty.exe
+C:\Users\janco\Desktop\UKW 2023-24\rok2sem2\Waluty\Waluty\obj\x86\Debug\Waluty.pdb
+C:\Users\janco\Desktop\UKW 2023-24\rok2sem2\Waluty\Waluty\obj\x86\Debug\ResourceHandlingTask.state
+C:\Users\janco\Desktop\UKW 2023-24\rok2sem2\Waluty\Waluty\obj\x86\Debug\priconfig.xml
+C:\Users\janco\Desktop\UKW 2023-24\rok2sem2\Waluty\Waluty\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\janco\Desktop\UKW 2023-24\rok2sem2\Waluty\Waluty\obj\x86\Debug\unfiltered.layout.resfiles
+C:\Users\janco\Desktop\UKW 2023-24\rok2sem2\Waluty\Waluty\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\janco\Desktop\UKW 2023-24\rok2sem2\Waluty\Waluty\obj\x86\Debug\filtered.layout.resfiles
+C:\Users\janco\Desktop\UKW 2023-24\rok2sem2\Waluty\Waluty\obj\x86\Debug\filtered.layout.resfiles.intermediate
+C:\Users\janco\Desktop\UKW 2023-24\rok2sem2\Waluty\Waluty\obj\x86\Debug\excluded.layout.resfiles
+C:\Users\janco\Desktop\UKW 2023-24\rok2sem2\Waluty\Waluty\obj\x86\Debug\excluded.layout.resfiles.intermediate
+C:\Users\janco\Desktop\UKW 2023-24\rok2sem2\Waluty\Waluty\obj\x86\Debug\resources.resfiles
+C:\Users\janco\Desktop\UKW 2023-24\rok2sem2\Waluty\Waluty\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\janco\Desktop\UKW 2023-24\rok2sem2\Waluty\Waluty\obj\x86\Debug\pri.resfiles
+C:\Users\janco\Desktop\UKW 2023-24\rok2sem2\Waluty\Waluty\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\janco\Desktop\UKW 2023-24\rok2sem2\Waluty\Waluty\obj\x86\Debug\qualifiers.txt
+C:\Users\janco\Desktop\UKW 2023-24\rok2sem2\Waluty\Waluty\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\janco\Desktop\UKW 2023-24\rok2sem2\Waluty\Waluty\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\janco\Desktop\UKW 2023-24\rok2sem2\Waluty\Waluty\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\janco\Desktop\UKW 2023-24\rok2sem2\Waluty\Waluty\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637424779200000000.json
+C:\Users\janco\Desktop\UKW 2023-24\rok2sem2\Waluty\Waluty\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637934986560000000.json
